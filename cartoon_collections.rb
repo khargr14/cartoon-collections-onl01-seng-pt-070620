@@ -23,7 +23,11 @@ def long_planeteer_calls(array)
 end
 end
 
+<<<<<<< HEAD
 
+=======
+long_planeteer_callslong_planeteer_calls
+>>>>>>> 1b647b6ce8d19e94616aead5f0ff3bcb80e9a7b0
 
 
 def find_the_cheese(array)
